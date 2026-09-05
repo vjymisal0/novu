@@ -164,6 +164,7 @@ export enum SmsProviderIdEnum {
   Sinch = 'sinch',
   ISendProSms = 'isendpro-sms',
   RuachSms = 'ruach-sms',
+  ValueFirst = 'valuefirst',
 }
 
 export enum ChatProviderIdEnum {
